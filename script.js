@@ -1,4 +1,4 @@
-const CSV_PATH = "iowa-warblers.csv";
+const CSV_PATH = "https://graceolson04.github.io/master-detail/";
 const BIRD_THUMBNAIL_EXTENSION = ".jpg";
 const FOOD_IMAGE_EXTENSION = ".jpg";
 
